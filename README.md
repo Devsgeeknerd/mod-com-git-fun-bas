@@ -6,7 +6,7 @@
 * [x] [O Que é um Commit.](https://github.com/Devsgeeknerd/cla-o-que-com-com-git-fun-bas)
 * [x] [Configurando Usuário no Git.](https://github.com/Devsgeeknerd/cla-con-usu-git-com-git-fun-bas)
 * [x] [Commitando Arquivos.](https://github.com/Devsgeeknerd/cla-com-arq-com-git-fun-bas)
-* [ ] [Desfazendo Commits.](https://github.com/Devsgeeknerd/cla-des-com-com-git-fun-bas) &#128679;
+* [x] [Desfazendo Commits.](https://github.com/Devsgeeknerd/cla-des-com-com-git-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
